@@ -3,6 +3,7 @@
 ~你能找到这里就是有问题的 去你的滚吧~ 看到这个建议去找我自首
 
 你好 我是一个绝望的高中生 GitHub不怎么用以前的东西删的差不多了
+
 nothing but a decoration↓
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Achuan-2" />
